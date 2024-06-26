@@ -10,4 +10,4 @@ Target the .wav's folder, hit run, it'll convert all .wav's in the folder, and c
 
 # Icon
 
-Credits to TheRicoLicious for the adorable icon!
+Credits to [TheRicoLicious](https://github.com/TheRicoLicious) for the adorable icon!
