@@ -70,7 +70,7 @@ def process_folder(selected_folder):
 
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-    os.environ['__COMPAT_LAYER'] = 'WIN7RTM'
+    os.environ['__COMPAT_LAYER'] = 'WIN8RTM'
 
     output_dir = os.path.join(selected_folder, 'Output')
     os.makedirs(output_dir, exist_ok=True)
