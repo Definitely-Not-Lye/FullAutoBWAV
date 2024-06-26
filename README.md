@@ -6,7 +6,7 @@ It's set to run in Open Revolution in Windows 8 compatibility mode, as suggested
 
 # Usage
 
-Target the .wav's folder, hit run, it'll convert all .wav's in the folder, and close itself and automatically open the output folder when it's done.
+Target the .wav's folder, or choose individual files, hit convert, it'll run, and close itself and automatically open the output folder when it's done.
 
 # Icon
 
