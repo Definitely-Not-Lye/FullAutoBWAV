@@ -4,6 +4,6 @@ A simple little batch-operation python UI wrapper for [OpenRevolution](https://g
 
 It's set to run in Open Revolution in Windows 8 compatibility mode, as suggested by ic-scm.
 
-# TOTK Batch WAV to BWAV Converter
+# Usage
 
 Target the .wav's folder, hit run, it'll convert all .wav's in the folder, and close itself and automatically open the output folder
