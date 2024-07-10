@@ -4,6 +4,8 @@ A simple little batch-operation python UI wrapper for [OpenRevolution](https://g
 
 It's set to run in Open Revolution in Windows 8 compatibility mode, as suggested by ic-scm.
 
+To convert the other way [BWAV->WAV], use [this](https://github.com/Definitely-Not-Lye/FullAutoBWAV-to-WAV) other thing
+
 # Usage
 
 Target the .wav's folder, or choose individual files, hit convert, it'll run, and close itself and automatically open the output folder when it's done.
